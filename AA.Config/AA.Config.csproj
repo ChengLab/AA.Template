@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AA.AutoMapper" Version="1.0.1" />
+    <PackageReference Include="AA.Dapper" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AA.DataAccess\AA.DataAccess.csproj" />
+    <ProjectReference Include="..\AA.Domain\AA.Domain.csproj" />
+    <ProjectReference Include="..\AA.Dto\AA.Dto.csproj" />
+    <ProjectReference Include="..\AA.ViemModel\AA.ViemModel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\bin\Release\netcoreapp2.1\AAJob.Utils.deps.json
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\bin\Release\netcoreapp2.1\AAJob.Utils.dll
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\bin\Release\netcoreapp2.1\AAJob.Utils.pdb
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.csprojAssemblyReference.cache
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.csproj.CoreCompileInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.AssemblyInfoInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.AssemblyInfo.cs
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.dll
+F:\下载代码\Github\AA.Doc\AADoc\AAJob.Utils\obj\Release\netcoreapp2.1\AAJob.Utils.pdb

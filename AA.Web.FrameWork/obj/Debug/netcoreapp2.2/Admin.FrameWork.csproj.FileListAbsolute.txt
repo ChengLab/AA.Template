@@ -1,0 +1,9 @@
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\obj\Debug\netcoreapp2.2\Admin.FrameWork.csprojAssemblyReference.cache
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\obj\Debug\netcoreapp2.2\Admin.FrameWork.csproj.CoreCompileInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\obj\Debug\netcoreapp2.2\Admin.FrameWork.AssemblyInfoInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\obj\Debug\netcoreapp2.2\Admin.FrameWork.AssemblyInfo.cs
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\bin\Debug\netcoreapp2.2\Admin.FrameWork.deps.json
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\bin\Debug\netcoreapp2.2\Admin.FrameWork.dll
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\下载代码\Github\AA.Doc\AADoc\Admin.FrameWork\obj\Debug\netcoreapp2.2\Admin.FrameWork.csproj.CopyComplete

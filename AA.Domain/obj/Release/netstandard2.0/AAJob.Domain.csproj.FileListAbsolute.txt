@@ -1,0 +1,12 @@
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\bin\Release\netstandard2.0\AAJob.Domain.deps.json
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\bin\Release\netstandard2.0\AAJob.Domain.dll
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\bin\Release\netstandard2.0\AAJob.Domain.pdb
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\bin\Release\netstandard2.0\AAJob.Dto.dll
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\bin\Release\netstandard2.0\AAJob.Dto.pdb
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.csprojAssemblyReference.cache
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.csproj.CoreCompileInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.AssemblyInfoInputs.cache
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.AssemblyInfo.cs
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.csproj.CopyComplete
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.dll
+F:\下载代码\Github\AA.Doc\AADoc\AA.Job\AAJob.Domain\obj\Release\netstandard2.0\AAJob.Domain.pdb
